@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 19be617d17adafe438710312a391bb40
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RunningGrant_0
+    21300002: RunningGrant_1
+    21300004: RunningGrant_2
+    21300006: RunningGrant_3
+    21300008: RunningGrant_4
+    21300010: RunningGrant_5
+    21300012: RunningGrant_6
+    21300014: RunningGrant_7
+    21300016: RunningGrant_8
+    21300018: RunningGrant_9
+    21300020: RunningGrant_10
+    21300022: RunningGrant_11
+    21300024: RunningGrant_12
+    21300026: RunningGrant_13
+    21300028: RunningGrant_14
+    21300030: RunningGrant_15
+    21300032: RunningGrant_16
+    21300034: RunningGrant_17
+    21300036: RunningGrant_18
+    21300038: RunningGrant_19
+    21300040: RunningGrant_20
+    21300042: RunningGrant_21
+    21300044: RunningGrant_22
+    21300046: RunningGrant_23
+    21300048: RunningGrant_24
+    21300050: RunningGrant_25
+    21300052: RunningGrant_26
+    21300054: RunningGrant_27
+    21300056: RunningGrant_28
+    21300058: RunningGrant_29
+    21300060: RunningGrant_30
+    21300062: RunningGrant_31
+    21300064: RunningGrant_32
+    21300066: RunningGrant_33
+    21300068: RunningGrant_34
+    21300070: RunningGrant_35
+    21300072: RunningGrant_36
+    21300074: RunningGrant_37
+    21300076: RunningGrant_38
+    21300078: RunningGrant_39
+    21300080: RunningGrant_40
+    21300082: RunningGrant_41
+    21300084: RunningGrant_42
+    21300086: RunningGrant_43
+    21300088: RunningGrant_44
+    21300090: RunningGrant_45
+    21300092: RunningGrant_46
+    21300094: RunningGrant_47
+    21300096: RunningGrant_48
+    21300098: RunningGrant_49
+    21300100: RunningGrant_50
+    21300102: RunningGrant_51
+    21300104: RunningGrant_52
+    21300106: RunningGrant_53
+    21300108: RunningGrant_54
+    21300110: RunningGrant_55
+    21300112: RunningGrant_56
+    21300114: RunningGrant_57
+    21300116: RunningGrant_58
+    21300118: RunningGrant_59
+    21300120: RunningGrant_60
+    21300122: RunningGrant_61
+    21300124: RunningGrant_62
+    21300126: RunningGrant_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RunningGrant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_7
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_8
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_9
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_10
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_11
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1753
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_16
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_18
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_19
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_20
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_21
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_22
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_23
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1458
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_29
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_30
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_31
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_32
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_33
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_34
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_35
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1163
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_39
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_40
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_41
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_42
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_43
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_44
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_45
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_46
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_47
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 868
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_52
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_53
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_54
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_55
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_56
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_57
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_58
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_59
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 573
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 278
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_62
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 278
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RunningGrant_63
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 278
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
