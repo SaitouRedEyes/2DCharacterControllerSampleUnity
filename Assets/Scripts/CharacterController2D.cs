@@ -24,7 +24,10 @@ public class CharacterController2D : MonoBehaviour
     //Transformações usando física
     void FixedUpdate()
     {
-        grounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, whatIsGround);
+        grounded = Physics2D.OverlapCircle(
+            groundCheck.position, 
+            groundRadius, 
+            whatIsGround);
         
         anim.SetBool("ground", grounded);
         anim.SetFloat("jumpSpeed", GetComponent<Rigidbody2D>().velocity.y);
