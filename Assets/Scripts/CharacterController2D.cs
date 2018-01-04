@@ -40,7 +40,7 @@ public class CharacterController2D : MonoBehaviour
 
         //pegando a quantidade de movimento (de -1 à 1 em x).
         float move = Input.GetAxis("Horizontal");
-
+        
         anim.SetFloat("speed", Mathf.Abs(move));
 
         GetComponent<Rigidbody2D>().velocity = new Vector2(move * maxSpeed, GetComponent<Rigidbody2D>().velocity.y);
@@ -53,6 +53,7 @@ public class CharacterController2D : MonoBehaviour
     //É mais preciso trabalhar com Inputs em Update
     void Update()
     {
+        
         if ((grounded || !doubleJump) && Input.GetKeyDown(KeyCode.Space))
         {
             anim.SetBool("ground", false);
